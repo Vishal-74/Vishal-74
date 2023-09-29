@@ -1,11 +1,17 @@
+![I am Tech Enthusiast](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b21FyqUbowHYAOQDXH0tDw.jpeg)
+
 ### Hi there 👋, I'm Vishal Gupta
 I'm Vishal Gupta, and I'm passionate about exploring the fascinating world of machine learning and artificial intelligence. Welcome to my GitHub portfolio, where I showcase my projects, experiments, and contributions in this exciting field. and I'm constantly thrilled by the possibilities they bring.
 
-![I am Tech Enthusiast](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*b21FyqUbowHYAOQDXH0tDw.jpeg)
 
 
 
-Skills: PYTHON / MACHINE LEARNING / HTML / CSS
+
+Skills: 
+* 🐍 PYTHON
+* 💻 MACHINE LEARNING
+* 🕸️ HTML
+* 🖌️ CSS
 
 - 🔭 I’m currently working on Machine learning project 
 - 🌱 I’m currently learning Neural Network 
